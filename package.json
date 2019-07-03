@@ -1,5 +1,5 @@
 {
-	"name": "RockLobster7",
+	"author": "RockLobster7",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
